@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Bahadir-Eray-Android\\Week3-AppNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\user\\Desktop\\Bahadir-Eray-Android\\Week3-AppNavigation\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Bahadir-Eray-Android\\Week3-AppNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_forget_password.xml",
+        "source": "C:\\Users\\user\\Desktop\\Bahadir-Eray-Android\\Week3-AppNavigation\\app\\src\\main\\res\\layout\\fragment_forget_password.xml"
+    }
+]
